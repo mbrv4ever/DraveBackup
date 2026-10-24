@@ -2,6 +2,12 @@
 
 Geplande lokale back-up van je mappen.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveBackup](https://dravenlock.nl/video/DraveBackup.jpg)](https://dravenlock.nl/video/DraveBackup.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveBackup.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Systeem en beveiliging · versie 0.1.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
